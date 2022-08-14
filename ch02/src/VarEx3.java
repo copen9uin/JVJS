@@ -10,6 +10,7 @@ public class VarEx3 {
 		final int MAX = 100;
 		//MAX = 200;			MAX는 상수이기 때문에 오류 발생
 		System.out.println(MAX);
+		System.out.println(MAX);
 	}
 
 }
