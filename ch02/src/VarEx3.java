@@ -2,6 +2,7 @@
 public class VarEx3 {
 
 	public static void main(String[] args) {
+		//변수와 상수
 		int score = 100;
 		score = 200;
 		
